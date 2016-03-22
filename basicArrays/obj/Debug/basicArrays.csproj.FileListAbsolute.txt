@@ -1,6 +1,0 @@
-c:\users\freaksty\documents\visual studio 2013\Projects\basicArrays\basicArrays\bin\Debug\basicArrays.exe.config
-c:\users\freaksty\documents\visual studio 2013\Projects\basicArrays\basicArrays\bin\Debug\basicArrays.exe
-c:\users\freaksty\documents\visual studio 2013\Projects\basicArrays\basicArrays\bin\Debug\basicArrays.pdb
-c:\users\freaksty\documents\visual studio 2013\Projects\basicArrays\basicArrays\obj\Debug\basicArrays.csprojResolveAssemblyReference.cache
-c:\users\freaksty\documents\visual studio 2013\Projects\basicArrays\basicArrays\obj\Debug\basicArrays.exe
-c:\users\freaksty\documents\visual studio 2013\Projects\basicArrays\basicArrays\obj\Debug\basicArrays.pdb

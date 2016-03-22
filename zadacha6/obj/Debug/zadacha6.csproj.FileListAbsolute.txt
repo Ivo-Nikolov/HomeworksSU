@@ -1,6 +1,0 @@
-C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\zadacha6\bin\Debug\zadacha6.exe.config
-C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\zadacha6\bin\Debug\zadacha6.exe
-C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\zadacha6\bin\Debug\zadacha6.pdb
-C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\zadacha6\obj\Debug\zadacha6.csprojResolveAssemblyReference.cache
-C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\zadacha6\obj\Debug\zadacha6.exe
-C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\zadacha6\obj\Debug\zadacha6.pdb
