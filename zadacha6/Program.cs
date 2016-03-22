@@ -9,12 +9,13 @@ namespace zadacha6
         static void Main(string[] args)
         {
             string inputNumbers = "1.2 -4 5.00 12211 93.003 4 2.2 7.7";
-            double[] splitNums = inputNumbers.Split(' ').Select(double.Parse).ToArray();
+
+            double[] splitNumsNoWay = inputNumbers.Split(' ').Select(double.Parse).ToArray();
             List<double> floatNumbers = new List<double>();
             List<int> roundNumbers = new List<int>();
-            for (int i = 0; i < splitNums.Length; i++)
+            for (int i = 0; i < splitNumsNoWay.Length; i++)
             {
-                double floatNum = splitNums[i];
+                double floatNum = splitNumsNoWay[i];
                 int roundNum = (int)floatNum;
 
                 if (floatNum == roundNum)
