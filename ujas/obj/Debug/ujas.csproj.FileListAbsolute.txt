@@ -1,0 +1,6 @@
+C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\ujas\bin\Debug\ujas.exe.config
+C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\ujas\bin\Debug\ujas.exe
+C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\ujas\obj\Debug\ujas.csprojResolveAssemblyReference.cache
+C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\ujas\obj\Debug\ujas.exe
+C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\ujas\obj\Debug\ujas.pdb
+C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\ujas\bin\Debug\ujas.pdb

@@ -1,0 +1,6 @@
+C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\zada4a1\bin\Debug\zada4a1.exe.config
+C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\zada4a1\bin\Debug\zada4a1.exe
+C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\zada4a1\bin\Debug\zada4a1.pdb
+C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\zada4a1\obj\Debug\zada4a1.csprojResolveAssemblyReference.cache
+C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\zada4a1\obj\Debug\zada4a1.exe
+C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\zada4a1\obj\Debug\zada4a1.pdb

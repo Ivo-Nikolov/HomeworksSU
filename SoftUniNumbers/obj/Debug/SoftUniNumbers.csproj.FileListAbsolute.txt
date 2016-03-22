@@ -1,0 +1,6 @@
+C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\SoftUniNumbers\bin\Debug\SoftUniNumbers.exe.config
+C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\SoftUniNumbers\bin\Debug\SoftUniNumbers.exe
+C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\SoftUniNumbers\bin\Debug\SoftUniNumbers.pdb
+C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\SoftUniNumbers\obj\Debug\SoftUniNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\SoftUniNumbers\obj\Debug\SoftUniNumbers.exe
+C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\SoftUniNumbers\obj\Debug\SoftUniNumbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\zada4a4\bin\Debug\zada4a4.exe.config
+C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\zada4a4\bin\Debug\zada4a4.exe
+C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\zada4a4\bin\Debug\zada4a4.pdb
+C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\zada4a4\obj\Debug\zada4a4.exe
+C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\zada4a4\obj\Debug\zada4a4.pdb

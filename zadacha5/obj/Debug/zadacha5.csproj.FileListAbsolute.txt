@@ -1,0 +1,6 @@
+C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\zadacha5\bin\Debug\zadacha5.exe.config
+C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\zadacha5\bin\Debug\zadacha5.exe
+C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\zadacha5\bin\Debug\zadacha5.pdb
+C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\zadacha5\obj\Debug\zadacha5.csprojResolveAssemblyReference.cache
+C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\zadacha5\obj\Debug\zadacha5.exe
+C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\zadacha5\obj\Debug\zadacha5.pdb

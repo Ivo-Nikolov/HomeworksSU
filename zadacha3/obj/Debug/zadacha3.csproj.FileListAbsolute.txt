@@ -1,0 +1,6 @@
+C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\zadacha3\bin\Debug\zadacha3.exe.config
+C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\zadacha3\bin\Debug\zadacha3.exe
+C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\zadacha3\bin\Debug\zadacha3.pdb
+C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\zadacha3\obj\Debug\zadacha3.csprojResolveAssemblyReference.cache
+C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\zadacha3\obj\Debug\zadacha3.exe
+C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\zadacha3\obj\Debug\zadacha3.pdb
