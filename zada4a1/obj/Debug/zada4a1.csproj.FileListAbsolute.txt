@@ -4,3 +4,6 @@ C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\zada4a1\bin\
 C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\zada4a1\obj\Debug\zada4a1.csprojResolveAssemblyReference.cache
 C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\zada4a1\obj\Debug\zada4a1.exe
 C:\Users\Freaksty\documents\visual studio 2013\Projects\basicArrays\zada4a1\obj\Debug\zada4a1.pdb
+E:\$Desktop\$IVO\git tests\temps\temp1\HomeworksSU\zada4a1\bin\Debug\zada4a1.exe.config
+E:\$Desktop\$IVO\git tests\temps\temp1\HomeworksSU\zada4a1\obj\Debug\zada4a1.exe
+E:\$Desktop\$IVO\git tests\temps\temp1\HomeworksSU\zada4a1\obj\Debug\zada4a1.pdb
