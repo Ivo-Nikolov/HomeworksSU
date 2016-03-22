@@ -12,6 +12,7 @@ namespace zada4a1
         static void Main(string[] args)
         {
             var input = Console.ReadLine().Split();
+            var ivan = "lol";
             string[,] resourceMatrix = new string[input.Length,3];
             for (int i = 0; i < input.Length; i++)
             {
@@ -84,6 +85,7 @@ namespace zada4a1
                     }
                 }   
             }
+            var mariika = "";
             Console.WriteLine(maxQuantity);
             
 
