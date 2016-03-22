@@ -84,6 +84,8 @@ namespace zada4a1
                     }
                 }   
             }
+
+            var ivan = "";
             Console.WriteLine(maxQuantity);
             
 
